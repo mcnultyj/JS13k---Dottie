@@ -12,4 +12,5 @@ Commands:
 
 Game Created With:
   HTML, CSS, and JS created with Web Maker (https://webmaker.app) and Atom (https://atom.io/)
+  
   Game Art developed using conditional formatting in Google Sheets
