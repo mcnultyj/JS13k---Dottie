@@ -1,5 +1,5 @@
-# JS13k-Dottie
-JS13k19 Game - Dottie Back to Sun
+# Dottie Back to Sun
+JS13k19 Game - created by NerdNult
 
 Story:
   
